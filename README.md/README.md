@@ -22,6 +22,7 @@ I'm a CS student somewhere between **"this is broken"** and **"oh, that's cool"*
 - 🎯 **Current Focus:** Sharpening my TypeScript, React, and Backend.
 
 <br><br>
+
 ## 🗡️ Tech Stack
 
 <div align="center">
