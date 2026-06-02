@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛩️ Anish Beniwal
+# ⛩️ Aayush Kumar
 ### *I Make Small Things On The Internet*
 
 <img src="./assets/muj.jpg" alt="Manipal University Jaipur" width="100%" style="border-radius: 12px; ">
@@ -16,7 +16,7 @@
 
 ## ⚔️ About Me
 
-I'm a CS student somewhere between **"this is broken"** and **"oh, that's cool"**. Mostly I build little web apps, take too many notes, and try to figure out how things actually work under the hood.
+Turning ideas into intelligent products through Full-Stack Development, AI/ML, and Data Analytics. Passionate about creating scalable solutions, solving meaningful problems, and staying ahead in the ever-evolving world of technology
 
 - 🥋 **Training In:** Advanced Full-Stack Architecture, Clean Code, & Scalability.
 - 🎯 **Current Focus:** Sharpening my TypeScript, React, and Backend.
@@ -28,7 +28,7 @@ I'm a CS student somewhere between **"this is broken"** and **"oh, that's cool"*
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css,js,mysql,git,github&theme=dark" />
 <br><br>
-<img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /> -->
 </div>
 
 <br><br>
